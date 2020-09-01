@@ -21,7 +21,6 @@ Set #2 -- 2 pull-ups  * *
 Set #3 -- 3 pull-ups  * * *  
 Set #4 -- 4 pull-ups  * * * *  
 Set #5 -- 5 pull-ups  * * * * *  
---------------------  
 You'll complete 15 pull-ups!  
 
 
@@ -36,7 +35,6 @@ Set #7 -- 4 pull-ups   * * * *
 Set #8 -- 3 pull-ups   * * *  
 Set #9 -- 2 pull-ups   * *  
 Set #10 -- 1 pull-up   *  
---------------------  
 You'll complete 30 pull-ups!  
 
 
