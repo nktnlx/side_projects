@@ -1,4 +1,4 @@
-Tinkoff Fintech tasks -- my solutions to coding tasks for Tinkoff Fintech Junior / Tinkoff Internship addmission tests.   
+Tinkoff Fintech tasks -- my solutions to coding tasks for Tinkoff Fintech Junior / Tinkoff Internship addmission tests. Check: **prep_for_fintech_tasks.ipynb** file.   
 
 Tasks are published in [https://vk.com/board123851409](https://vk.com/board123851409) and were sloved by me while exams preparations in January 2021.  
 
