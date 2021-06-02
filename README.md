@@ -10,6 +10,8 @@ List of projects:
 2. [Bad Habits Tracker](https://github.com/nktnlx/side_projects) -- not finished yet..
 3. [Tinkoff Fintech tasks](https://github.com/nktnlx/side_projects/tree/master/3_tinkoff_fintech_tasks) -- my solutions to coding problems for Tinkoff Fintech Junior / Tinkoff Internship admission tests.  
 4. [Career Factory](https://github.com/nktnlx/side_projects/tree/master/4_career_factory) -- my solution to an open Data Analyst competition held by [Карьерный Цех](https://careerfactory.ru/). Evaluating A/B-test design, data cleaning, data anomalies detection, checking splitting system, calculating conversion and bounce rates, log-scale transformation, Shapiro–Wilk test of normality, performing a bunch of A/B-tests using different statistical approaches (Z-test, Mann-Whitney rank test), plotting results, concluding and giving recommendations for follow-up actions.       
+5. [Yandex Manager School](https://github.com/nktnlx/side_projects/tree/master/5_ya_manager_school) -- my solutions to the test tasks applying for Yandex Manager School (Product Analytics department): Python, Pandas, SQL.  
+
 
 
 Hope this repo will help you to assess my coding skills or will be just fun for you to play with.  
@@ -17,6 +19,6 @@ Hope this repo will help you to assess my coding skills or will be just fun for 
 
 
 --------------------------------------------
-Fill free to contact me via nktn.lx@gmal.com  
+Feel free to contact me via nktn.lx@gmal.com  
 Follow me on twitter: @nktn_lx  
 And here on github: github.com/nktnlx  
