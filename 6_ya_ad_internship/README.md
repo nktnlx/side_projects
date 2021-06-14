@@ -1,4 +1,4 @@
-Yandex Advertising Analytics -- my solutions to the test tasks applying for Yandex Advertising Analytics internship program: Python, Pandas, SQL, presentation and conclusion.   
+Yandex Advertising Analytics -- my solutions to the test tasks applying for Yandex Advertising Analytics internship program: Python, Pandas, SQL, presentation, recommendations how to improve advertising campaign efficiency and conclusions.  
 
 
 Tasks and the presentation are in Russian.  
