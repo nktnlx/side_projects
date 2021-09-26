@@ -12,6 +12,8 @@ List of projects:
 4. [Career Factory](https://github.com/nktnlx/side_projects/tree/master/4_career_factory) -- my solution to an open Data Analyst competition held by [Карьерный Цех](https://careerfactory.ru/). Evaluating A/B-test design, data cleaning, data anomalies detection, checking splitting system, calculating conversion and bounce rates, log-scale transformation, Shapiro–Wilk test of normality, performing a bunch of A/B-tests using different statistical approaches (Z-test, Mann-Whitney rank test), plotting results, concluding and giving recommendations for follow-up actions.       
 5. [Yandex Manager School](https://github.com/nktnlx/side_projects/tree/master/5_ya_manager_school) -- my solutions to the test tasks applying for Yandex Manager School (Product Analytics department): Python, Pandas, SQL.  
 6. [Yandex Advertising Analytics](https://github.com/nktnlx/side_projects/tree/master/6_ya_ad_internship) -- my solutions to the test tasks applying for Yandex Advertising Analytics internship program: Python, Pandas, SQL, presentation, recommendations how to improve advertising campaign efficiency and conclusions.  
+7. [Google Sheets Course](https://github.com/nktnlx/side_projects/tree/master/6_ya_ad_internship) -- Google Sheets Course by Yandex Praktikum. Covers following topics: data analysis, reporting, pivot tables, filtering data, processing data, importing data & data visualization. Mastering following Google Sheets functions: IF, SUMIF(s), UNIQUE, IMPORTXML, COUNT, COUNTA, COUNTIF(s), COUNTUNIQUE, SUM, MAX, MIN, AVERAGE, AND, OR, IFERROR, VLOOKUP, QUERY, IMPORTRANGE, etc. 
+
 
 
 
